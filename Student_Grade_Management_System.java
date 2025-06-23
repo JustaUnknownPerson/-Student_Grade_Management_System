@@ -6,7 +6,7 @@ package grades;
 import java.util.*;
 /**
  *
- * @author Amoroso
+ * @author unknown
  */
 public class Student_Grade_Management_System {
     static List<String> students = new ArrayList<>();

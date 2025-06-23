@@ -6,7 +6,7 @@ package grades;
 
 /**
  *
- * @author Amoroso
+ * @author unknown
  */
 public class Student_Util {
     
